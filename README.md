@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @haianhnguyen2200
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Computer Science
+- 💞 I have a particular liking for coding
+- 📫 Let's discover me!
